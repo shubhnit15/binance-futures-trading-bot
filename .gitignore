@@ -1,0 +1,19 @@
+# Sensitive credentials
+.env
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Log files
+*.log
+bot.log
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.idea/
+.vscode/
